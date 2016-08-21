@@ -1,5 +1,7 @@
 var Twitter = require("twitter");
 var readline = require("readline");
+var dotenv = require("dotenv");
+dotenv.config();
 
 var input = readline.createInterface({
     input: process.stdin,
