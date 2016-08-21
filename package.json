@@ -1,0 +1,26 @@
+{
+  "name": "hue-follower",
+  "version": "1.0.0",
+  "description": "hashtag follower",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ItsMeAlves/hashtag-follower.git"
+  },
+  "keywords": [
+    "twitter",
+    "hashtag"
+  ],
+  "author": "Gabriel Alves",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ItsMeAlves/hashtag-follower/issues"
+  },
+  "homepage": "https://github.com/ItsMeAlves/hashtag-follower#readme",
+  "dependencies": {
+    "twitter": "^1.4.0"
+  }
+}
